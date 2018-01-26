@@ -1,8 +1,9 @@
 #!/bin/sh
 
 domain="7e2f.org"
-footer_left=$SERVER_SOFTWARE
+#footer_left=$SERVER_SOFTWARE
 footer_right="ch at ~/ . org"
+footer_left=$(ls $HTTP_HOST)
 
 [[ -f $HTTP_HOST"/index.sh" ]] && . $HTTP_HOST"/index.sh"
 

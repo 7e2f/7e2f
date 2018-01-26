@@ -5,7 +5,7 @@ title="~/start"
 content=""
 list_close="false"
 
-links="start.7e2f.ld/links"
+links="start.7e2f.org/links"
 
 while IFS=" | " read -r foo bar baz
     do
