@@ -1,5 +1,5 @@
 #!/bin/sh
 
 title="cloud"
-content="wip"
+content="~> nextcloud"
 

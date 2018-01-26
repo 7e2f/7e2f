@@ -1,5 +1,5 @@
 #!/bin/sh
 
 title="pass"
-content="wip"
+content="~> lesspass"
 

@@ -1,5 +1,5 @@
 #!/bin/sh
 
 title="code"
-content="wip"
+content="~> cgit"
 
