@@ -2,7 +2,7 @@
 
 domain="7e2f.org"
 #footer_left=$SERVER_SOFTWARE
-footer_left=$REQUEST_URI
+footer_left=$DOCUMENT_ROOT+$REQUEST_URI
 footer_right="ch at ~/ . org"
 
 [[ -f $HTTP_HOST"/index.sh" ]] && . $HTTP_HOST"/index.sh"
