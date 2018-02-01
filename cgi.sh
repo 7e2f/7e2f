@@ -1,8 +1,7 @@
 #!/bin/sh
 
 domain="7e2f.org"
-#footer_left=$SERVER_SOFTWARE
-footer_left=$DOCUMENT_ROOT+$REQUEST_URI
+footer_left=$SERVER_SOFTWARE
 footer_right="ch at ~/ . org"
 
 if [[ $REQUEST_URI != "/" ]]
