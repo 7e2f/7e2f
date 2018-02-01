@@ -5,7 +5,14 @@ domain="7e2f.org"
 footer_left=$DOCUMENT_ROOT+$REQUEST_URI
 footer_right="ch at ~/ . org"
 
-[[ -f $HTTP_HOST"/index.sh" ]] && . $HTTP_HOST"/index.sh"
+if [[ $REQUEST_URI != "/" ]]
+    then
+        cgi_request=$REQUEST_URI
+    else
+        cgi_request="/index.sh"
+fi
+
+[[ -f $HTTP_HOST$cgi_request ]] && . $HTTP_HOST$cgi_request
 
 cat << EOF
 Content-Type: text/html
