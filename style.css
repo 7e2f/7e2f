@@ -85,11 +85,11 @@ a {
 .links a:hover {
     color: #cccccc;
 }
-
+/*
 .links .heading:not(:first-child) {
 	margin-top: 15px;
 }
-
+*/
 #footer {
 	clear: both;
 	overflow: hidden;

@@ -23,7 +23,7 @@ while IFS=" | " read -r foo bar baz
             "
             ;;
             -)
-            content+="<li class='heading'>$bar</li>
+            content+="<br/><li class='heading'>$bar</li>
             "
             ;;
             @)
