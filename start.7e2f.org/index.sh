@@ -2,7 +2,7 @@
 
 title="start"
 
-content=""
+content="<br/>"
 list_close="false"
 
 links="start.7e2f.org/links"
