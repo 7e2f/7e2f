@@ -1,6 +1,6 @@
 #!/bin/bash
 
-title="anime"
+title="~/anime"
 
 content=""
 list_close="false"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-title="radio"
+title="~/radio"
 
 content+="\
 7e2f.org radio stream<br />

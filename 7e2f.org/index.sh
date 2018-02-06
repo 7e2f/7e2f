@@ -1,5 +1,5 @@
 #!/bin/bash
 
-title=""
+title="~/"
 
 content="here be dragons"

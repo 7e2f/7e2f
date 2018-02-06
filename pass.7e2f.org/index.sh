@@ -1,5 +1,4 @@
 #!/bin/sh
 
-title="pass"
+title="~/pass"
 content="~> lesspass"
-
