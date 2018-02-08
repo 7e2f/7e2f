@@ -12,17 +12,19 @@
 @ | https://git.suckless.org | suckless
 ^ | ---------------------------------------------------------------------------
 - | finance
-@ | http://paychekplus.com | payroll
-@ | https://www.paycor.com | paycor
 @ | https://amazon.com | amazon
-@ | https://turbotax.intuit.com | turbotax
-@ | https://www.creditkarma.com/auth/logon | creditkarma
 @ | https://www.capitalone.com | capitalone
 @ | https://www.woodforest.com | woodforest
+@ | https://turbotax.intuit.com | turbotax
+@ | https://www.creditkarma.com/auth/logon | creditkarma
+@ | https://www.paycor.com | paycor
 ^ | ---------------------------------------------------------------------------
 - | social
 @ | https://gmail.com | gmail
 @ | https://web.telegram.org | telegram
+- | radio
+@ | http://arrl.org | aarl
+@ | https://hamstudy.org | hamstudy
 ^ | ---------------------------------------------------------------------------
 - | tv
 @ | https://youtube.com | youtube
