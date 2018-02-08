@@ -1,6 +1,6 @@
 #!/bin/bash
 
-title="start"
+title="~/start"
 
 content="<br/>"
 list_close="false"

@@ -19,14 +19,14 @@ Content-Type: text/html
 <html>
 <head>
 	<meta charset='utf-8'>
-	<title>~/$title</title>
+	<title>$title</title>
 	<link rel='stylesheet' type='text/css' href='/style.css'>
 </head>
 <body>
 	<div id='container'>
 		<div id='nav'>
 			<span class='left'>
-				~/$title
+				$title
         		</span>
 			<span class='right'>
 				<a href='//$domain'>home</a>

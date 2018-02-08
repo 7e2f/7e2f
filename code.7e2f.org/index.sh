@@ -1,5 +1,4 @@
 #!/bin/sh
 
-title="code"
+title="~/code"
 content="~> cgit"
-

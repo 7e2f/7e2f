@@ -1,5 +1,4 @@
 #!/bin/sh
 
-title="cloud"
+title="~/cloud"
 content="~> nextcloud"
-

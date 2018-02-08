@@ -13,11 +13,11 @@ html, body {
     margin: 0;
     padding: 0;
     background: #0f0f0f;
-    color: #cccccc;
+    color: #efefef;
 }
 
 a {
-    color: #cccccc;
+    color: #efefef;
     text-decoration: none;
 }
 
@@ -61,7 +61,7 @@ a {
 }
 
 #nav a:hover {
-    background-color: #1f1f1f;
+    background-color: #3f3f3f;
 }
 
 #content {
@@ -83,7 +83,7 @@ a {
 }
 
 .links a:hover {
-    color: #cccccc;
+    color: #efefef;
 }
 /*
 .links .heading:not(:first-child) {
