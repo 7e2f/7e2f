@@ -6,10 +6,11 @@
 @ | http://github.com | github
 @ | https://digitalocean.com | digitalocean
 - | tools
-@ | https://wiki.musl-libc.org | musl
-@ | www.linuxfromscratch.org | lfs
+@ | https://git.musl-libc.org/cgit/musl | musl
+@ | https://linuxfromscratch.org | lfs
 @ | https://git.2f30.org | divzero
 @ | https://git.suckless.org | suckless
+
 ^ | ---------------------------------------------------------------------------
 - | finance
 @ | https://amazon.com | amazon
