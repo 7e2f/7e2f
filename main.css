@@ -99,13 +99,11 @@ a {
 	color: #6f6f6f
 }
 
-/*
 form {
   margin: 0px 0px 0px 0px;
   width: auto;
-  display: inline;
+  /*display: inline;*/
 }
-*/
 
 input {
   outline: 0px;
