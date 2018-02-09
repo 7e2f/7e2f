@@ -8,7 +8,7 @@ content="<br/>
       target='_blank'
       action='https://duckduckgo.com/?q=search'
       >
-        <input type='text' placeholder='find'>
+        <input type='text' name='q' placeholder='find'>
 </form>"
 
 
