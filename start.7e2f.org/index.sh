@@ -2,9 +2,14 @@
 
 title="~/start"
 
-content="<br/><form autocomplete='off' id='searchBox' target='_blank' action='https://google.com/search'>
-        <input type='text' placeholder='search ->'>
-      </form>"
+content="<br/>
+<form autocomplete='off'
+      id='searchBox'
+      target='_blank'
+      action='https://duckduckgo.com/search'
+      >
+        <input type='text' placeholder='find'>
+</form>"
 
 
 list_close="false"
