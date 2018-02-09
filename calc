@@ -1,0 +1,15 @@
+When dealing with decibels, every 3dB of gain doubles the power, and every 3dB of loss halves it. So, 5 watts to 10 watts is twice the power, so it is 3dB. 5 watts to 20 watts would be four times the power, or 2×2×P (where P is power), or 6dB. 9dB would be 40 watts, 12dB would be 80 watts, etc.
+
+Similarly, −3dB would be 2.5 watts, since −3dB is half the power, and −6dB would be half of that, −9dB half of that, etc.
+
+If you're interested, the formula to calculate the gain (or loss) of power in decibels is:
+
+LdB=10×log10(P1P0)
+Where L is gain in dB, P1 is the new value and P0 is the old. In this case,
+
+10×log10105=10×log10(2)=10×0.3=3dB
+This is difficult to calculate without a good calculator, though, and the 3dB = twice rule is easier to remember.
+
+
+hf 3 - 3000mhz
+

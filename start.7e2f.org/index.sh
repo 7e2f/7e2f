@@ -1,6 +1,9 @@
 #!/bin/bash
 
-title="~/start"
+title="~/start
+<form autocomplete="off" id="searchBox" target="_blank" action="https://google.com/search">
+        <input type="text">
+      </form>"
 
 content="<br/>"
 list_close="false"
