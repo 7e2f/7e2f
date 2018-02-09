@@ -112,7 +112,7 @@ input {
   background: none;
 /*border-width: 0px;*/
   border: none;
-  border-bottom: 1px solid #3f3f3f;
+  border-bottom: 1px dotted #3f3f3f;
   color: #efefef;
   width: 100%;
 }
