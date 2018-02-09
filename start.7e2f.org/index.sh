@@ -6,7 +6,7 @@ content="<br/>
 <form autocomplete='off'
       id='searchBox'
       target='_blank'
-      action='https://duckduckgo.com/'
+      action='https://duckduckgo.com/?q=search'
       >
         <input type='text' placeholder='find'>
 </form>"
