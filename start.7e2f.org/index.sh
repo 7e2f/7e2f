@@ -1,11 +1,12 @@
 #!/bin/bash
 
-title="~/start
-<form autocomplete="off" id="searchBox" target="_blank" action="https://google.com/search">
-        <input type="text">
+title="~/start"
+
+content="<br/><form autocomplete='off' id='searchBox' target='_blank' action='https://google.com/search'>
+        <input type='text' placeholder='search ->'>
       </form>"
 
-content="<br/>"
+
 list_close="false"
 
 links="start.7e2f.org/links"
