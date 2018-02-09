@@ -108,8 +108,7 @@ form {
 
 input {
   outline: 0px;
-  display: inline;
-  padding: 0 25px 0 25px;
+  /*display: inline;*/
   background: none;
   border-width: 0px;
   border: none;
