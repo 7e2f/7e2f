@@ -111,7 +111,7 @@ input {
 /*display: inline;*/
   background: none;
 /*border-width: 0px;*/
-/*border: none;*/
+  border: none;
   border-bottom: 1px solid #3f3f3f;
   color: #efefef;
   width: 100%;
