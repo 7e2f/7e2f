@@ -109,16 +109,11 @@ form {
 input {
   outline: 0px;
   display: inline;
-  background: none;
+  padding: 0 25px 0 25px;
+  background: #ff0000;
   border-width: 0px;
   border: none;
-  color: var(--text);
+  color: #efefef;
   width: 100%;
 }
 
-textarea {
-  /*height:150px;*/
-  width:100%;
-  color:#ffffff;
-  resize: none;
-}
