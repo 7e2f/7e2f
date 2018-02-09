@@ -102,6 +102,7 @@ a {
 form {
   margin: 0px 0px 0px 0px;
   width: auto;
+  padding: 0 25px 0 25px;
   /*display: inline;*/
 }
 
