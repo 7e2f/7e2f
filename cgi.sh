@@ -2,7 +2,7 @@
 
 domain="7e2f.org"
 footer_left=$SERVER_SOFTWARE
-footer_right="ch at ~/ . org"
+footer_right="ch at ~/ dot org"
 
 if [[ $REQUEST_URI != "/" ]]
     then
