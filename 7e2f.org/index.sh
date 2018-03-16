@@ -2,4 +2,4 @@
 
 title="~/"
 
-content="<br/><br/>here be dragons<br/>"
+content="<br/><br/>here be goblins<br/>"
