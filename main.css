@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'hack';
-    src: url('terminus.ttf') format('truetype');
+    src: url('.ttf') format('truetype');
 }
 
 * {
     font-family: 'hack';
     font-weight: 100;
-    font-size: 14px;
+    font-size: 11px;
 }
 
 html, body {
