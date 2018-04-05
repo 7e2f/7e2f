@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'hack';
-    src: url('.ttf') format('truetype');
+    src: url('terminus.ttf') format('truetype');
 }
 
 * {
